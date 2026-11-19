@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "FashionStore",
+    "slug": "fashionstore-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F8F7F4"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F8F7F4"
+      }
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
+  }
+}
